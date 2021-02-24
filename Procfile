@@ -1,1 +1,1 @@
-web: qunicorn app:app
+web:node src/server.js
